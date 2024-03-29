@@ -1,2 +1,2 @@
 # Binary Trees 
-C Binary Trees project
+C Binary Trees Project
